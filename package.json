@@ -1,0 +1,24 @@
+{
+  "name": "pw2react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/L0U1Z/PW2React#readme",
+  "bugs": {
+    "url": "https://github.com/L0U1Z/PW2React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L0U1Z/PW2React.git"
+  },
+  "license": "ISC",
+  "author": "Luiz Guilherme",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "vite": "^8.2.1"
+  }
+}
