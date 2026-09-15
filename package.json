@@ -12,10 +12,11 @@
   },
   "license": "ISC",
   "author": "Luiz Guilherme",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@types/react-dom": "^19.2.7",
